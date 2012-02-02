@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+#  THIS CODE BORROWED FROM http://snippets.dzone.com/posts/show/1785
+
 require "socket"
 
 # Don't allow use of "tainted" data by potentially dangerous operations
